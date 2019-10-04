@@ -1,0 +1,25 @@
+body {
+	background-color: white;
+	font-family: veranda, arial, sans-serif;
+	text-indent: 1em;
+
+}
+header{
+	
+	background-color: red;
+	
+}
+h1{
+	line-height:200%;
+}
+
+nav{
+	text-align: center;
+	font-weight: bold;
+}
+footer{
+	background-color:red;
+	font-size:.60em
+	font-weight: italic;
+	text-align:center;
+}
